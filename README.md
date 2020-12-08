@@ -1,6 +1,5 @@
-yeah, i know its cringe
-dont know why i do this
+yeah, i know its cringe, dont know why i do this
 
-## [imtable.github.io/firstLandingPage](https://imtable.github.io/goit.week.marathon/)
+### [link: imtable.github.io/firstLandingPage](https://imtable.github.io/goit.week.marathon/)
 
 ![background-picture](https://i.imgur.com/INC2WQq.jpg)
